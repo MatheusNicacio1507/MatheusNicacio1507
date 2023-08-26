@@ -13,6 +13,8 @@
       </picture>
   </div>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnicacio1507&layout=compact) 
+  
 ##
   
   <div style = "display: inline_block">
