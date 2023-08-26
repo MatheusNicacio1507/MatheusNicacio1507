@@ -36,7 +36,4 @@
   
 ##
 
-  <div>
-    <a href="https://www.linkedin.com/in/matheus-santos-nicacio/" target = "_blank" /> <img align= "center" height="35" width="170"   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/>
-  </div>
 </html>
