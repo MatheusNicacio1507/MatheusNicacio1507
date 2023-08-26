@@ -1,11 +1,13 @@
-👋Olá! Me chamo Matheus.
-🏫Estudante de T.I no SENAI (1/3);
-🏙️Rio de Janeiro, RJ;
-⚽Botafogo de Futebol e Regatas ★彡.
+<html>
+  
+👋Olá! Me chamo Matheus.</br>
+🏫Estudante de T.I no SENAI (1/3)</br>
+🏙️Rio de Janeiro, RJ</br>
+⚽Botafogo de Futebol e Regatas ★彡</br>
 
 ##
 
-<html>
+
   <div>
       <picture>
         <source
