@@ -6,24 +6,7 @@
 ⚽Botafogo de Futebol e Regatas ★彡</br>
 
 ##
-
-
-  <div>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=matheusnicacio1507&show_icons=true&theme=tokyonight"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=matheusnicacio1507&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusnicacio1507&show_icons=true" />
-      </picture>
-  </div>
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnicacio1507&layout=compact) 
-  
 ##
   
   <div style = "display: inline_block">
