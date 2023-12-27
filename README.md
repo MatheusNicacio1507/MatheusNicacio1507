@@ -1,7 +1,7 @@
 <html>
   
 👋Olá! Me chamo Matheus.</br>
-🏫Estudante de T.I no SENAI (1/3)</br>
+🏫Estudante de T.I no SENAI (2/3)</br>
 🏙️Rio de Janeiro, RJ</br>
 ⚽Botafogo de Futebol e Regatas ★彡</br>
 
