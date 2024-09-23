@@ -15,7 +15,6 @@
     <img align= "center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align= "center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align= "center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bc95d2ef-260f-4ee6-a45d-fc5bb7517cc0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </div>
   
 ##
